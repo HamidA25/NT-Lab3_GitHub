@@ -27,9 +27,15 @@ def programme():
     inputNombre()
     print("Voici le resultat du calcul : " + str(calcul()))
     
+# Test pour un deuxième commit
+
+# nouvelle-Fonctionnalité 
+
+def salutation():
+    print("Salut mon chère")   
+
 # Main #
+salutation()
 programme() 
 
-# Test pour un deuxième commit
-    
     
